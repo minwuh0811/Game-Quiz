@@ -1,0 +1,3 @@
+interface QuestionForm {
+    void form();
+}
